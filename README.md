@@ -15,11 +15,11 @@ Para acessar o projeto, clique [aqui](https://gitlab.com/fse_fga/trabalhos-2022_
 
 ## Requisitos
 
-O software foi feito para utilização em uma rapberryPi.
+O software foi feito para utilização em uma RaspberryPi.
 
-É necessário o *git*, *make*, e *gcc* instalados.
+É necessário que o *git*, *make*, e *gcc* estejam instalados.
 
-Fazo uso da biblioteca já instalada na Raspberry Pi: *wiringPi.h*.
+Faz-se o uso da biblioteca já instalada na Raspberry Pi: *wiringPi.h*.
 
 ***
 ## Instalação 
@@ -48,15 +48,17 @@ A simulação do projeto pode ser testada e visualizada das seguintes formas:
 
 * Via dashboard (interação com o usuário)
 
-![Dashboard]()
+![Dashboard](https://user-images.githubusercontent.com/38087662/214215945-6a67bec5-e6eb-4870-ad92-e316b3df9790.jpg)
+
 
 * Via Youtube
 
-![Youtube]()
+![YouTube](https://user-images.githubusercontent.com/38087662/214216259-83b73742-5266-4e21-b3ae-55e60660416d.jpg)
+
 
 * Via console
 
-![Console]()
+![photo5078319269107837757](https://user-images.githubusercontent.com/38087662/214216418-0f97b1c1-da49-4be5-a6c9-ffa8c2c6e626.jpg)
 
 
 ## Experimentos
